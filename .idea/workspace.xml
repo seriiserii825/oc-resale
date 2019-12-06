@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a3ee1f0-d7da-4f50-989f-532f405e739f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/view/theme/resale/image/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/view/theme/resale/template/common/footer.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/view/theme/resale/template/common/header.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/view/theme/resale/template/common/home.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helper/func.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/view/theme/resale/template/common/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/resale/template/common/header.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/startup.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/startup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -63,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575635133109</updated>
-      <workItem from="1575635134603" duration="4185000" />
+      <workItem from="1575635134603" duration="4292000" />
+      <workItem from="1575645898292" duration="929000" />
     </task>
     <servers />
   </component>
@@ -86,9 +90,9 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="702" y="196" width="196" height="529" key="ftp.server.browser/0.27.1600.873@0.27.1600.873" timestamp="1575635286301" />
-    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1575639161182">
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1575646107769">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1575639161182" />
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1575646107769" />
   </component>
 </project>

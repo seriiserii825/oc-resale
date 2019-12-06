@@ -16,6 +16,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
     <title><?php echo $title; if (isset($_GET['page'])) { echo " - ". ((int) $_GET['page'])." ".$text_page;} ?></title>
+
     <base href="<?php echo $base; ?>" />
 	<?php if ($description) { ?>
         <meta name="description" content="<?php echo $description; if (isset($_GET['page'])) { echo " - ". ((int) $_GET['page'])." ".$text_page;} ?>" />
@@ -490,7 +491,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
             </div>
-
+<?php vardump($og_url); ?>
+<?php vardump($home); ?>
         </div>
     </div>
 </div>

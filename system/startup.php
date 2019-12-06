@@ -104,3 +104,5 @@ require_once(DIR_SYSTEM . 'helper/json.php');
 function start($application_config) {
 	require_once(DIR_SYSTEM . 'framework.php');	
 }
+
+require_once(DIR_SYSTEM . 'helper/func.php');
