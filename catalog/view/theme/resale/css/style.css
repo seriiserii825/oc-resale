@@ -228,9 +228,14 @@ li.dropdown-header {
 .logo {
 	float: left;
 }
-
+.header-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
 .header-right {
-	float: right;
+	display: inline-flex;
+	align-items: center;
 }
 
 .logo a {
@@ -245,7 +250,6 @@ li.dropdown-header {
 }
 
 .account {
-	margin-top: 20px;
 	font-size: 15px;
 	color: #fff;
 	background-color: #01a185;
@@ -276,6 +280,23 @@ span.active.uls-trigger {
 	font-size: 14px;
 	color: #6D6D6D;
 	margin-top: 26px;
+}
+.language-list {
+	display: flex;
+	align-items: center;
+	padding: 0 12px;
+	list-style-type: none;
+}
+.language-list a {
+	display: block;
+	padding: 4px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #01a185;
+}
+
+.language-list a.active {
+	color: #f3c500;
 }
 
 .selectregion {
